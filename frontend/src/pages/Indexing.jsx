@@ -5,7 +5,7 @@ import { apiBaseUrl } from '../config/config';
 
 const Indexing = () => {
   const [embeddingFile, setEmbeddingFile] = useState('');
-  const [vectorDb, setVectorDb] = useState('milvus');
+  //const [vectorDb, setVectorDb] = useState('milvus');
   const [indexMode, setIndexMode] = useState('standard');
   const [status, setStatus] = useState('');
   const [embeddedFiles, setEmbeddedFiles] = useState([]);
@@ -40,13 +40,15 @@ const Indexing = () => {
 
   useEffect(() => {
     fetchEmbeddedFiles();
-    fetchCollections();
+    //fetchCollections();
   }, []);
 
   useEffect(() => {
-    // 当数据库改变时，重置索引模式为该数据库的第一个可用模式
-    setIndexMode(dbConfigs[vectorDb].modes[0]);
-  }, [vectorDb]);
+    // 使用 selectedProvider 而不是 vectorDb
+    if (dbConfigs[selectedProvider]) {
+      setIndexMode(dbConfigs[selectedProvider].modes[0]);
+    }
+  }, [selectedProvider]); // 依赖 selectedProvider
 
   useEffect(() => {
     const fetchData = async () => {
@@ -110,7 +112,7 @@ const Indexing = () => {
         },
         body: JSON.stringify({
           fileId: embeddingFile,
-          vectorDb,
+          vectorDb: selectedProvider,
           indexMode
         }),
       });
@@ -223,7 +225,7 @@ const Indexing = () => {
                 onChange={(e) => setIndexMode(e.target.value)}
                 className="block w-full p-2 border rounded"
               >
-                {dbConfigs[vectorDb].modes.map(mode => (
+                {dbConfigs[selectedProvider].modes.map(mode => (
                   <option key={mode} value={mode}>
                     {mode.toUpperCase()}
                   </option>
