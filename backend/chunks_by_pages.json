@@ -1,0 +1,39 @@
+{
+  "filename": "sample.pdf",
+  "total_chunks": 3,
+  "total_pages": 3,
+  "loading_method": "pymupdf",
+  "chunking_method": "by_pages",
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "timestamp": "2025-12-26T01:19:15.936545",
+  "chunks": [
+    {
+      "content": "这是第一页的内容。它包含两个句子。第一个句子。第二个句子。",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "这是第二页的内容。这一整页只有一段文字，但字符数很多，超过100个字符。",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "第三页。\n\n这是一个新段落。\n\n这是另一个段落。",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 3
+      }
+    }
+  ]
+}

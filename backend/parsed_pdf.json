@@ -1,0 +1,1198 @@
+{
+  "metadata": {
+    "filename": "sample-report.pdf",
+    "source_type": "pdf",
+    "total_elements": 89,
+    "parsing_method": "text_and_tables",
+    "timestamp": "2025-12-26T01:31:31.409018"
+  },
+  "elements": [
+    {
+      "type": "table",
+      "content": "[{\"null\": \"Multi-Page\\nReport\\n“A comprehensive and content-heavy report that\\nincludes text, images, and tables for thorough\\ntesting of pagination and complex layouts.”\\nPrepared By\\nSample Team\\nsample-files.com\", \"ulti-Page\\nReport\": \"ulti-Page\\nReport\"}]",
+      "metadata": {
+        "page": 1,
+        "table_id": 1,
+        "bbox": [
+          0.0,
+          -26.570542941943604,
+          609.1195132927621,
+          834.41998360625
+        ],
+        "num_rows": 2,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "text",
+      "content": "Sample Team",
+      "metadata": {
+        "page": 1,
+        "bbox": [
+          223.67361450195312,
+          620.0859375,
+          371.58587646484375,
+          651.3339233398438
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Prepared By",
+      "metadata": {
+        "page": 1,
+        "bbox": [
+          230.87416076660156,
+          581.9524536132812,
+          364.38641357421875,
+          613.200439453125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "sample-files.com",
+      "metadata": {
+        "page": 1,
+        "bbox": [
+          215.38687133789062,
+          697.5963745117188,
+          379.8805236816406,
+          724.9383544921875
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Multi-Page",
+      "metadata": {
+        "page": 1,
+        "bbox": [
+          128.97286987304688,
+          140.8040313720703,
+          466.2969970703125,
+          221.056884765625
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Report",
+      "metadata": {
+        "page": 1,
+        "bbox": [
+          191.84396362304688,
+          221.0540313720703,
+          403.4156188964844,
+          301.306884765625
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "“A comprehensive and content-heavy report that",
+      "metadata": {
+        "page": 1,
+        "bbox": [
+          60.80537033081055,
+          335.404541015625,
+          534.4622802734375,
+          362.7465515136719
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "includes text, images, and tables for thorough",
+      "metadata": {
+        "page": 1,
+        "bbox": [
+          80.68037414550781,
+          361.654541015625,
+          514.5840454101562,
+          388.9965515136719
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "testing of pagination and complex layouts.”",
+      "metadata": {
+        "page": 1,
+        "bbox": [
+          91.98896789550781,
+          387.904541015625,
+          503.275634765625,
+          415.2465515136719
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"null\": \"Table of Contents\\n1. Introduction\\n2. Market Analysis\\n3. Data Analysis\\n4. Product Overview\\n5. Results & Discussion\\n6. Marketing Strategy\\n7. Sales Projections\\n8. Launch Timeline\\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\", \"of Contents\": \"of Contents\"}]",
+      "metadata": {
+        "page": 2,
+        "table_id": 1,
+        "bbox": [
+          0.0,
+          -26.570542941943604,
+          609.1195132927621,
+          834.41998360625
+        ],
+        "num_rows": 2,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "text",
+      "content": "Table of Contents",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          59.527557373046875,
+          194.24374389648438,
+          424.6159973144531,
+          251.44003295898438
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "1. Introduction",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          59.527557373046875,
+          301.82122802734375,
+          248.03614807128906,
+          337.2216491699219
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "2. Market Analysis",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          59.527557373046875,
+          348.32122802734375,
+          288.9404602050781,
+          383.7216491699219
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "3. Data Analysis",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          59.527557373046875,
+          394.82122802734375,
+          260.2196044921875,
+          430.2216491699219
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "4. Product Overview",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          59.527557373046875,
+          441.32122802734375,
+          317.3575744628906,
+          476.7216491699219
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "5. Results & Discussion",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          59.527557373046875,
+          487.8212585449219,
+          348.48931884765625,
+          523.2216796875
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "6. Marketing Strategy",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          59.527557373046875,
+          534.3212890625,
+          332.37103271484375,
+          569.7216796875
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "7. Sales Projections",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          59.527557373046875,
+          580.8212890625,
+          304.3733215332031,
+          616.2216796875
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "8. Launch Timeline",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          59.527557373046875,
+          627.3212890625,
+          297.6343994140625,
+          662.7216796875
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "metadata": {
+        "page": 2,
+        "bbox": [
+          58.452247619628906,
+          782.2798461914062,
+          536.8198852539062,
+          793.2748413085938
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"null\": \"Introduction\\nThis section introduces the report and highlights the\\nkey objectives. The purpose of this report is to analyze\\ndata, evaluate outcomes, and provide insights for\\nfuture decisions. This analysis is based on various data\\nsources that include quantitative and qualitative\\ninputs. Note: Add an image here illustrating the\\nconcept of data analysis or research methodology.\\nID Metric Value Remarks\\n1 Metric 1 70 Valid Data\\n2 Metric 2 431 Valid Data\\n3 Metric 3 186 Valid Data\\n4 Metric 4 489 Valid Data\\n5 Metric 5 180 Valid Data\\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\", \"tion\\nroduces the report and highlights the\\nThe purpose of this report is to analyze\\nutcomes, and provide insights for\\ns. This analysis is based on various data\\nlude quantitative and qualitative\": \"tion\\nroduces the report and highlights the\\nThe purpose of this report is to analyze\\nutcomes, and provide insights for\\ns. This analysis is based on various data\\nlude quantitative and qualitative\"}]",
+      "metadata": {
+        "page": 3,
+        "table_id": 1,
+        "bbox": [
+          0.0,
+          -26.570542941943604,
+          609.1195132927621,
+          834.41998360625
+        ],
+        "num_rows": 2,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"ID\": \"1\", \"Metric\": \"Metric 1\", \"Value\": \"70\", \"Remarks\": \"Valid Data\"}, {\"ID\": \"2\", \"Metric\": \"Metric 2\", \"Value\": \"431\", \"Remarks\": \"Valid Data\"}, {\"ID\": \"3\", \"Metric\": \"Metric 3\", \"Value\": \"186\", \"Remarks\": \"Valid Data\"}, {\"ID\": \"4\", \"Metric\": \"Metric 4\", \"Value\": \"489\", \"Remarks\": \"Valid Data\"}, {\"ID\": \"5\", \"Metric\": \"Metric 5\", \"Value\": \"180\", \"Remarks\": \"Valid Data\"}]",
+      "metadata": {
+        "page": 3,
+        "table_id": 2,
+        "bbox": [
+          59.840055106664266,
+          381.08342089527423,
+          535.4355077901863,
+          647.37695229971
+        ],
+        "num_rows": 6,
+        "num_cols": 4
+      }
+    },
+    {
+      "type": "text",
+      "content": "Introduction",
+      "metadata": {
+        "page": 3,
+        "bbox": [
+          55.730621337890625,
+          92.03910827636719,
+          254.52760314941406,
+          135.61041259765625
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This section introduces the report and highlights thekey objectives. The purpose of this report is to analyzedata, evaluate outcomes, and provide insights forfuture decisions. This analysis is based on various datasources that include quantitative and qualitativeinputs. Note: Add an image here illustrating theconcept of data analysis or research methodology.",
+      "metadata": {
+        "page": 3,
+        "bbox": [
+          59.527557373046875,
+          173.982177734375,
+          531.2657470703125,
+          346.98468017578125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "IDMetricValueRemarks",
+      "metadata": {
+        "page": 3,
+        "bbox": [
+          111.07036590576172,
+          400.05743408203125,
+          511.0802001953125,
+          423.493408203125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "1Metric 170Valid Data",
+      "metadata": {
+        "page": 3,
+        "bbox": [
+          116.91630554199219,
+          446.7195739746094,
+          513.0221557617188,
+          467.5483093261719
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "2Metric 2431Valid Data",
+      "metadata": {
+        "page": 3,
+        "bbox": [
+          114.74833679199219,
+          490.5681457519531,
+          513.0221557617188,
+          511.3968811035156
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "3Metric 3186Valid Data",
+      "metadata": {
+        "page": 3,
+        "bbox": [
+          114.63114929199219,
+          534.416748046875,
+          513.0221557617188,
+          555.2454833984375
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "4Metric 4489Valid Data",
+      "metadata": {
+        "page": 3,
+        "bbox": [
+          114.49052429199219,
+          578.2653198242188,
+          513.0221557617188,
+          599.0940551757812
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "5Metric 5180Valid Data",
+      "metadata": {
+        "page": 3,
+        "bbox": [
+          114.43193054199219,
+          622.1138916015625,
+          513.0221557617188,
+          642.942626953125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "metadata": {
+        "page": 3,
+        "bbox": [
+          58.452247619628906,
+          782.2798461914062,
+          536.8198852539062,
+          793.2748413085938
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "[Image 1 on page 4]",
+      "metadata": {
+        "page": 4,
+        "image_id": 1,
+        "bbox": null,
+        "extension": "png"
+      }
+    },
+    {
+      "type": "image",
+      "content": "[Image 2 on page 4]",
+      "metadata": {
+        "page": 4,
+        "image_id": 2,
+        "bbox": null,
+        "extension": "png"
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"null\": \"Market Analysis\\nNam quis porta ex. Donec porttitor at sem nec\\nsollicitudin. Ut vel commodo tortor, sagittis egestas\\nnisl. Donec quam mauris, tristique non tempus vitae,\\nornare sed mauris. Etiam blandit tempor metus, at\\nvehicula nisi. Maecenas suscipit vulputate varius.\\nCurrent market share Projected sales for the\\nfirst three years\\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\", \"nalysis\\nex. Donec porttitor at sem nec\\nvel commodo tortor, sagittis egestas\\nm mauris, tristique non tempus vitae,\\nris. Etiam blandit tempor metus, at\\naecenas suscipit vulputate varius.\": \"nalysis\\nex. Donec porttitor at sem nec\\nvel commodo tortor, sagittis egestas\\nm mauris, tristique non tempus vitae,\\nris. Etiam blandit tempor metus, at\\naecenas suscipit vulputate varius.\"}]",
+      "metadata": {
+        "page": 4,
+        "table_id": 1,
+        "bbox": [
+          0.0,
+          -26.570542941943604,
+          609.1195132927621,
+          834.41998360625
+        ],
+        "num_rows": 2,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "text",
+      "content": "Market Analysis",
+      "metadata": {
+        "page": 4,
+        "bbox": [
+          59.54993438720703,
+          92.03910827636719,
+          307.72509765625,
+          135.61041259765625
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Nam quis porta ex. Donec porttitor at sem necsollicitudin. Ut vel commodo tortor, sagittis egestasnisl. Donec quam mauris, tristique non tempus vitae,ornare sed mauris. Etiam blandit tempor metus, atvehicula nisi. Maecenas suscipit vulputate varius.",
+      "metadata": {
+        "page": 4,
+        "bbox": [
+          59.527557373046875,
+          173.982177734375,
+          514.6727294921875,
+          297.48468017578125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Current market shareProjected sales for the",
+      "metadata": {
+        "page": 4,
+        "bbox": [
+          50.937049865722656,
+          372.7598876953125,
+          527.8946533203125,
+          397.2725830078125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "first three years",
+      "metadata": {
+        "page": 4,
+        "bbox": [
+          358.7259216308594,
+          397.5098876953125,
+          498.74041748046875,
+          422.0225830078125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "metadata": {
+        "page": 4,
+        "bbox": [
+          58.452247619628906,
+          782.2798461914062,
+          536.8198852539062,
+          793.2748413085938
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "[Image 1 on page 5]",
+      "metadata": {
+        "page": 5,
+        "image_id": 1,
+        "bbox": null,
+        "extension": "jpeg"
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"null\": \"Data Analysis\\nThis section analyzes data collected from various\\nsources. The data is presented in a structured format\\nto identify trends, patterns, and anomalies. Statistical\\nmethods are used to derive meaningful insights. Note:\\nAdd a chart or a graph here depicting the data trends\\nvisually.\\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\", \"lysis\\nlyzes data collected from various\\nta is presented in a structured format\\nds, patterns, and anomalies. Statistical\\ned to derive meaningful insights. Note:\\ngraph here depicting the data trends\": \"lysis\\nlyzes data collected from various\\nta is presented in a structured format\\nds, patterns, and anomalies. Statistical\\ned to derive meaningful insights. Note:\\ngraph here depicting the data trends\"}]",
+      "metadata": {
+        "page": 5,
+        "table_id": 1,
+        "bbox": [
+          0.0,
+          -26.570542941943604,
+          609.1195132927621,
+          834.41998360625
+        ],
+        "num_rows": 2,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "text",
+      "content": "Data Analysis",
+      "metadata": {
+        "page": 5,
+        "bbox": [
+          59.539276123046875,
+          92.03910827636719,
+          271.2858581542969,
+          135.61041259765625
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This section analyzes data collected from varioussources. The data is presented in a structured formatto identify trends, patterns, and anomalies. Statisticalmethods are used to derive meaningful insights. Note:Add a chart or a graph here depicting the data trendsvisually.",
+      "metadata": {
+        "page": 5,
+        "bbox": [
+          59.527557373046875,
+          173.982177734375,
+          526.6004638671875,
+          322.23468017578125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "metadata": {
+        "page": 5,
+        "bbox": [
+          58.452247619628906,
+          782.2798461914062,
+          536.8198852539062,
+          793.2748413085938
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "content": "[Image 1 on page 6]",
+      "metadata": {
+        "page": 6,
+        "image_id": 1,
+        "bbox": null,
+        "extension": "jpeg"
+      }
+    },
+    {
+      "type": "image",
+      "content": "[Image 2 on page 6]",
+      "metadata": {
+        "page": 6,
+        "image_id": 2,
+        "bbox": null,
+        "extension": "jpeg"
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"null\": \"Product Overview\\nNam quis porta ex. Donec porttitor at sem nec\\nsollicitudin. Ut vel commodo tortor, sagittis egestas\\nnisl. Donec quam mauris, tristique non tempus vitae,\\nornare sed mauris. Etiam blandit tempor metus, at\\nvehicula nisi. Maecenas suscipit vulputate varius.\\nKey Features\\nInteger et justo velus.\\nUt in ipsum ac risus.\\nMaecenas iaculis.\\nUt nec mauris vel.\\nTellus accumsan.\\nKey Features\\nInteger et justo velus.\\nUt in ipsum ac risus.\\nMaecenas iaculis.\\nUt nec mauris vel.\\nTellus accumsan.\\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\", \"Overview\\nex. Donec porttitor at sem nec\\nvel commodo tortor, sagittis egestas\\nm mauris, tristique non tempus vitae,\\nris. Etiam blandit tempor metus, at\\naecenas suscipit vulputate varius.\": \"Overview\\nex. Donec porttitor at sem nec\\nvel commodo tortor, sagittis egestas\\nm mauris, tristique non tempus vitae,\\nris. Etiam blandit tempor metus, at\\naecenas suscipit vulputate varius.\"}]",
+      "metadata": {
+        "page": 6,
+        "table_id": 1,
+        "bbox": [
+          0.0,
+          -26.570542941943604,
+          609.1195132927621,
+          834.41998360625
+        ],
+        "num_rows": 2,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "text",
+      "content": "Product Overview",
+      "metadata": {
+        "page": 6,
+        "bbox": [
+          59.55152130126953,
+          92.03910827636719,
+          340.625732421875,
+          135.61041259765625
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Nam quis porta ex. Donec porttitor at sem necsollicitudin. Ut vel commodo tortor, sagittis egestasnisl. Donec quam mauris, tristique non tempus vitae,ornare sed mauris. Etiam blandit tempor metus, atvehicula nisi. Maecenas suscipit vulputate varius.",
+      "metadata": {
+        "page": 6,
+        "bbox": [
+          59.527557373046875,
+          173.982177734375,
+          514.6727294921875,
+          297.48468017578125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Integer et justo velus.Ut in ipsum ac risus.Maecenas iaculis.Ut nec mauris vel.Tellus accumsan.",
+      "metadata": {
+        "page": 6,
+        "bbox": [
+          356.9798278808594,
+          375.5219421386719,
+          543.7499389648438,
+          499.0244140625
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Key Features",
+      "metadata": {
+        "page": 6,
+        "bbox": [
+          338.13690185546875,
+          336.6907653808594,
+          477.4927673339844,
+          366.6473083496094
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Integer et justo velus.Ut in ipsum ac risus.Maecenas iaculis.Ut nec mauris vel.Tellus accumsan.",
+      "metadata": {
+        "page": 6,
+        "bbox": [
+          90.12521362304688,
+          597.1266479492188,
+          276.8952941894531,
+          720.629150390625
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Key Features",
+      "metadata": {
+        "page": 6,
+        "bbox": [
+          71.28227233886719,
+          558.2954711914062,
+          210.63815307617188,
+          588.2520141601562
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "metadata": {
+        "page": 6,
+        "bbox": [
+          58.452247619628906,
+          782.2798461914062,
+          536.8198852539062,
+          793.2748413085938
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"null\": \"Results & Discussion\\nThe results and findings are discussed in this section.\\nThe data presented previously is analyzed and\\ncontextualized to understand the implications. This\\nsection highlights key trends, potential causes, and\\nimplications for future strategies. Note: Add a\\ncomparative analysis image or table illustrating\\ndifferent scenarios.\\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\", \"Discussion\\nfindings are discussed in this section.\\nted previously is analyzed and\\nto understand the implications. This\\nts key trends, potential causes, and\\nfuture strategies. Note: Add a\": \"Discussion\\nfindings are discussed in this section.\\nted previously is analyzed and\\nto understand the implications. This\\nts key trends, potential causes, and\\nfuture strategies. Note: Add a\"}]",
+      "metadata": {
+        "page": 7,
+        "table_id": 1,
+        "bbox": [
+          0.0,
+          -26.570542941943604,
+          609.1195132927621,
+          834.41998360625
+        ],
+        "num_rows": 2,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "text",
+      "content": "Results & Discussion",
+      "metadata": {
+        "page": 7,
+        "bbox": [
+          59.539276123046875,
+          92.03910827636719,
+          379.5878601074219,
+          135.61041259765625
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "The results and findings are discussed in this section.The data presented previously is analyzed andcontextualized to understand the implications. Thissection highlights key trends, potential causes, andimplications for future strategies. Note: Add acomparative analysis image or table illustratingdifferent scenarios.",
+      "metadata": {
+        "page": 7,
+        "bbox": [
+          59.527557373046875,
+          173.982177734375,
+          518.8712158203125,
+          346.98468017578125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "metadata": {
+        "page": 7,
+        "bbox": [
+          58.452247619628906,
+          782.2798461914062,
+          536.8198852539062,
+          793.2748413085938
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"null\": \"\", \"g Strategy\\nmpus vitae, ornare sed mauris. Etiam\\nmetus, at vehicula nisi. Maecenas\\nte varius.\\n1st Strategy\": \"g Strategy\\nmpus vitae, ornare sed mauris. Etiam\\nmetus, at vehicula nisi. Maecenas\\nte varius.\\n1st Strategy\"}, {\"null\": \"\", \"g Strategy\\nmpus vitae, ornare sed mauris. Etiam\\nmetus, at vehicula nisi. Maecenas\\nte varius.\\n1st Strategy\": \"\"}]",
+      "metadata": {
+        "page": 8,
+        "table_id": 1,
+        "bbox": [
+          0.0,
+          -26.570542941943604,
+          609.1195132927621,
+          834.41998360625
+        ],
+        "num_rows": 3,
+        "num_cols": 3
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"\": \"\"}]",
+      "metadata": {
+        "page": 8,
+        "table_id": 2,
+        "bbox": [
+          420.1421678240756,
+          520.3030907358416,
+          472.55372628850785,
+          575.2916736685432
+        ],
+        "num_rows": 2,
+        "num_cols": 1
+      }
+    },
+    {
+      "type": "table",
+      "content": "[]",
+      "metadata": {
+        "page": 8,
+        "table_id": 3,
+        "bbox": [
+          299.1555791155257,
+          575.2916736685432,
+          340.0567523557072,
+          605.0734939886294
+        ],
+        "num_rows": 1,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "text",
+      "content": "Marketing Strategy",
+      "metadata": {
+        "page": 8,
+        "bbox": [
+          59.5483283996582,
+          92.49125671386719,
+          358.2582702636719,
+          136.0625762939453
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Tristique non tempus vitae, ornare sed mauris. Etiamblandit tempor metus, at vehicula nisi. Maecenassuscipit vulputate varius.",
+      "metadata": {
+        "page": 8,
+        "bbox": [
+          59.527557373046875,
+          173.982177734375,
+          515.4923095703125,
+          247.9846649169922
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Integer et justo velus.Ut in ipsum ac risus.Maecenas iaculis.Ut nec mauris vel.Tellus accumsan.",
+      "metadata": {
+        "page": 8,
+        "bbox": [
+          356.9798278808594,
+          325.2762145996094,
+          543.7499389648438,
+          448.7786865234375
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "1st Strategy",
+      "metadata": {
+        "page": 8,
+        "bbox": [
+          340.73016357421875,
+          286.4450378417969,
+          469.2277526855469,
+          316.4015808105469
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Integer et justo velus.Ut in ipsum ac risus.Maecenas iaculis.Ut nec mauris vel.Tellus accumsan.",
+      "metadata": {
+        "page": 8,
+        "bbox": [
+          90.12521362304688,
+          562.1883544921875,
+          276.8952941894531,
+          685.6908569335938
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "2nd Strategy",
+      "metadata": {
+        "page": 8,
+        "bbox": [
+          66.97745513916016,
+          523.357177734375,
+          209.28013610839844,
+          553.313720703125
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "metadata": {
+        "page": 8,
+        "bbox": [
+          58.452247619628906,
+          782.2798461914062,
+          536.8198852539062,
+          793.2748413085938
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"null\": \"\", \"jections\\nmpus vitae, ornare sed mauris. Etiam\\nmetus, at vehicula nisi. Maecenas\\nte varius.\\nSeries 1 Series 2\": \"jections\\nmpus vitae, ornare sed mauris. Etiam\\nmetus, at vehicula nisi. Maecenas\\nte varius.\\nSeries 1 Series 2\"}, {\"null\": \"Series 1 Series 2\\n20\\n15\\n10\\n5\\n0\\nItem 1 Item 2 Item 3\", \"jections\\nmpus vitae, ornare sed mauris. Etiam\\nmetus, at vehicula nisi. Maecenas\\nte varius.\\nSeries 1 Series 2\": \"Series 1 Series 2\"}]",
+      "metadata": {
+        "page": 9,
+        "table_id": 1,
+        "bbox": [
+          0.0,
+          -26.570542941943604,
+          609.1195132927621,
+          834.41998360625
+        ],
+        "num_rows": 3,
+        "num_cols": 3
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"null\": \"\", \"\": \"\"}, {\"null\": \"\", \"\": \"\"}]",
+      "metadata": {
+        "page": 9,
+        "table_id": 2,
+        "bbox": [
+          161.27300820679213,
+          350.01468063873324,
+          535.5605083118074,
+          473.63491034579295
+        ],
+        "num_rows": 3,
+        "num_cols": 9
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"Metric\": \"Market Size\", \"Sales\": \"$50 Billion\"}, {\"Metric\": \"User Satisfaction\", \"Sales\": \"85%\"}, {\"Metric\": \"Growth Rate\", \"Sales\": \"10%\"}]",
+      "metadata": {
+        "page": 9,
+        "table_id": 3,
+        "bbox": [
+          59.840055106664266,
+          533.4243021477373,
+          535.5605083118074,
+          711.9894472075226
+        ],
+        "num_rows": 4,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "text",
+      "content": "Sales Projections",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          59.54991912841797,
+          92.49125671386719,
+          328.3450622558594,
+          136.0625762939453
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Tristique non tempus vitae, ornare sed mauris. Etiamblandit tempor metus, at vehicula nisi. Maecenassuscipit vulputate varius.",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          59.527557373046875,
+          155.939453125,
+          515.4923095703125,
+          229.9419403076172
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "MetricSales",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          152.43756103515625,
+          552.3670654296875,
+          437.8248596191406,
+          575.8031005859375
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Market Size$50 Billion",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          137.0608367919922,
+          599.0292358398438,
+          454.3746032714844,
+          619.8579711914062
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "User Satisfaction85%",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          117.39677429199219,
+          642.8778076171875,
+          432.2878723144531,
+          663.70654296875
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Growth Rate10%",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          133.3342742919922,
+          686.7263793945312,
+          430.4731750488281,
+          707.5551147460938
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Series 1Series 2",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          229.372314453125,
+          273.9097595214844,
+          413.52294921875,
+          296.8008117675781
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Item 1Item 2Item 3",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          136.33187866210938,
+          486.2814636230469,
+          492.3319091796875,
+          509.1725158691406
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "0",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          64.86908721923828,
+          470.3833312988281,
+          77.05303192138672,
+          493.2743835449219
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "5",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          66.33032989501953,
+          429.1766052246094,
+          77.09017944335938,
+          452.0676574707031
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "10",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          59.222923278808594,
+          387.9698791503906,
+          76.7164535522461,
+          410.8609313964844
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "15",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          60.68415451049805,
+          346.76312255859375,
+          76.75359344482422,
+          369.6541748046875
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "20",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          54.687294006347656,
+          305.5563659667969,
+          76.75199890136719,
+          328.4474182128906
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "metadata": {
+        "page": 9,
+        "bbox": [
+          58.452247619628906,
+          782.2798461914062,
+          536.8198852539062,
+          793.2748413085938
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": "[{\"\": \"\", \"null\": \"\"}, {\"\": \"\", \"null\": \"\"}]",
+      "metadata": {
+        "page": 10,
+        "table_id": 1,
+        "bbox": [
+          59.511230562397444,
+          310.1054577845673,
+          535.7612967590867,
+          591.0355291952508
+        ],
+        "num_rows": 3,
+        "num_cols": 2
+      }
+    },
+    {
+      "type": "text",
+      "content": "Launch Timeline",
+      "metadata": {
+        "page": 10,
+        "bbox": [
+          59.5541877746582,
+          92.49125671386719,
+          316.6649169921875,
+          136.0625762939453
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "Vivamus ac nunc vitae nulla molestie sodales. Proin sitamet rhoncus lacus. Cras non erat imperdiet sapienporttitor aliquam nec ut velit.",
+      "metadata": {
+        "page": 10,
+        "bbox": [
+          59.527557373046875,
+          155.939453125,
+          530.2813720703125,
+          229.9419403076172
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "content": "This sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.",
+      "metadata": {
+        "page": 10,
+        "bbox": [
+          58.452247619628906,
+          782.2798461914062,
+          536.8198852539062,
+          793.2748413085938
+        ]
+      }
+    }
+  ]
+}
